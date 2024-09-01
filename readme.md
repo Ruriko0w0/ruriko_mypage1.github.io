@@ -5,3 +5,7 @@
 <img src="rr.jpg"  alt="かわきた" width="500">
 
 contact: [0w0@ruriko.moe](mailto:0w0@ruriko.moe)
+
+[A short derivation of Schrödinger equation](Schrodinger.html)
+
+[Some notes on path integral and DQMC](PathIntegral.svg)
