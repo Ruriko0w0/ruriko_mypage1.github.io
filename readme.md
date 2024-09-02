@@ -6,6 +6,6 @@
 
 contact: [0w0@ruriko.moe](mailto:0w0@ruriko.moe)
 
-[A short derivation of Schrödinger equation](Schrodinger.html)
+[A short derivation of Schrödinger equation](Schrodinger Equation.svg)
 
 [Some notes on path integral and DQMC](PathIntegral.svg)
